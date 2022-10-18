@@ -1,3 +1,4 @@
+package ch02;
 
 import java.lang.Math; // importing java.lang package
 
